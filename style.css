@@ -1,0 +1,68 @@
+*{
+    margin: 0 0;
+    /* border: 2px solid green; */
+}
+body{
+    background-color: white;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+h3{
+    color:#F45B69;
+}
+.heading{
+    background-image: linear-gradient(#F45B69, white);
+    height: 600px;;
+}
+.heading h1{
+    float: left;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+.heading h2{
+    width: 30%;
+    float: right;
+    margin-top: 330px;
+    font-size: 24px;
+}
+.imagem{
+    border-radius: 50%;
+    width: 350px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.imagem:hover{
+    width: 400px;
+}
+.sumary{
+    text-decoration:none;
+}
+.about{
+    width: 60%;
+    height: 150px;
+}
+.habilities{
+    width: 60%;
+    height: 150px;
+    margin-left: 40%;
+}
+.studies{
+    float: 0 both;
+    height: 150px;
+}
+.portifolio{
+    background-color: #F45B69;
+    padding: 30px;
+    border: 30px solid white;
+    height: 400px;
+    }
+.portifolio #project{
+    width: 30%;
+    display: inline-block;
+    margin: 12px;
+}
+#contact{
+    height: 300px;
+}
