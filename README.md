@@ -1,2 +1,2 @@
 # Portifolio_Larissa_Menezes
-Aqui se encontra o portifólio que eu desenvolvi :))
+Página destinada ao meu portifólio pessola (Ainda em desenvolvimento)
